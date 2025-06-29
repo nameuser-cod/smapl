@@ -1,1 +1,7 @@
-/* Add styles here */
+body{
+    background: #222222;
+}
+
+h1{
+    color: beige;
+}
